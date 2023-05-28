@@ -10,10 +10,11 @@ Nesta documentação, você encontrará informações sobre a configuração do 
 
 Antes de começar a usar o ReactPress, certifique-se de que o seu sistema atende aos seguintes requisitos:
 
-* Node.js (versão 12 ou superior)
+* Node.js (versão 16 ou superior)
 * NPM (Node Package Manager)
 * PHP (versão 8 ou superior)
 * MySQL (ou outro banco de dados compatível com o PHP)
+* Axios
 
 ## Instalação
 
